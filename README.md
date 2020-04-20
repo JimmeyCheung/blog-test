@@ -7,7 +7,7 @@
 ### 业余时间也会敲敲代码，比如`javascript,css,html,c#`
 ``` javascript
 function sayHello(){
-    console.log("Hello!!";)
+    console.log("Hello!!");
 }
 ```
 ### 喜欢看的网站: [xxx.xxx.xx](www.baidu.com)
