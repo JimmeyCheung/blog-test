@@ -11,5 +11,5 @@ function sayHello(){
     console.log("Hello!!");
 }
 ```
-### 喜欢看的网站: [xxx.xxx.xx](www.baidu.com)
+### 喜欢看的网站: [xxx.xxx.xx](http://www.baidu.com)
 ### 喜欢看的图片: ![苍老师写真](bird.jpg)
